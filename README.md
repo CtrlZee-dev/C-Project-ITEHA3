@@ -1,6 +1,6 @@
 # C-Project-ITEHA3
 
-Here's a concise README template for your GitHub repository that highlights key aspects of your project:
+
 
 ---
 
